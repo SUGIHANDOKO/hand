@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png?v=2.0.0.9" group-title="vision+", SCTV
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+https://anevia114.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV-avc1_1000000=10-init.mp4
+https://anevia114.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV-mp4a_98800_eng=5-init.mp4
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png?v=2.0.0.9" group-title="vision+",NET TV
+https://liveanevia.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV.mpd
+https://anevia114.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV-avc1_1000000=9-init.mp4
+https://anevia114.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV-mp4a_98800_eng=5-init.mp4
